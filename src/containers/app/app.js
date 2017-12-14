@@ -6,7 +6,7 @@ import Loading from '../../components/loading/loading';
 import Header from '../../components/header/header';
 import Repositories from '../../components/repositories/respositories';
 
-const defaultName = 'Alex Casillas';
+const defaultName = 'Nik Adzic';
 const defaultAvatar =
   'https://avatars0.githubusercontent.com/u/9496960?v=4&s=460';
 
